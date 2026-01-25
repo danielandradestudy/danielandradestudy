@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá! :)
+### De SysAdmin/Infra para Data Engineer 🏗️ ➡️ 📊
 
-<!--
-**danielandradestudy/danielandradestudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um profissional de Infraestrutura em transição para Engenharia de Dados. Minha bagagem me permite olhar para o pipeline de dados não apenas como código, mas como um sistema robusto, escalável e monitorado.
 
-Here are some ideas to get you started:
+- 🔭 Atualmente estou estudando: **Python, SQL e conceitos de ETL.**
+- ⚙️ Venho de um background em: **[Linux, Docker e um pouco de Cybersegurança!]**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Ferramentas e Tecnologias
+
+- **Linguagens:** Python, SQL.
+- **Data Engineering:** (Em aprendizado) 
+- **Infra/Cloud:** Docker, Ansible, Linux, Zabbix.
+- **Bancos de Dados:** Mysql.
+
+---
+
+### 📈 Estatísticas do GitHub
+![danielandradestudy](https://github-readme-stats.vercel.app/api?username=danielandradestudy&show_icons=true&theme=dracula)
+
+---
+
+### 📫 Como me encontrar
+- **LinkedIn:** [https://www.linkedin.com/in/daniel-tech-/]
