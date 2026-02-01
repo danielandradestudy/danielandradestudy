@@ -20,7 +20,7 @@ Sou um profissional de Infraestrutura em transição para Engenharia de Dados. M
 ### 📈 Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=danielandradestudy&show_icons=true&theme=dark)
 ---
-https://github-readme-stats-eight-theta.vercel.app
+
 
 ### 📫 Como me encontrar
-- **LinkedIn:** [https://www.linkedin.com/in/daniel-tech-/]
+- **LinkedIn:** https://www.linkedin.com/in/daniel-tech-/
