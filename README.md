@@ -18,8 +18,7 @@ Sou um profissional de Infraestrutura em transição para Engenharia de Dados. M
 ---
 
 ### 📈 Estatísticas do GitHub
-![danielandradestudy](https://github-readme-stats.vercel.app/api?username=danielandradestudy&show_icons=true&theme=dracula)
-
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=danielandradestudy&show_icons=true&theme=dark)
 ---
 
 ### 📫 Como me encontrar
