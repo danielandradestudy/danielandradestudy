@@ -4,7 +4,7 @@
 Sou um profissional de Infraestrutura em transição para Engenharia de Dados. Minha bagagem me permite olhar para o pipeline de dados não apenas como código, mas como um sistema robusto, escalável e monitorado.
 
 - 🔭 Atualmente estou estudando: **Python, SQL e conceitos de ETL.**
-- ⚙️ Venho de um background em: **[Linux, Docker e um pouco de Cybersegurança!]**.
+- ⚙️ Venho de um background em: **Linux, Docker e um pouco de Cybersegurança!**.
 
 ---
 
